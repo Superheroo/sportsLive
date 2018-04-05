@@ -1,93 +1,140 @@
 {
-	"sport": [
-		{
-			"appId": "13",
-			"cat": "亚冠,18赛季,小组赛,第5轮",
-			"channelId": "301817",
-			"createTime": "2018-03-27 06:25:53",
-			"endTime": "2018-04-05 19:10:00",
-			"guestSuppor": "22",
-			"guestTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzUzOC5wbmc/dj0yMDE4MDMxNg==",
-			"guestTeamTitle": "川崎前锋",
-			"homeSuppor": "332",
-			"homeTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzQ4NS5wbmc/dj0yMDE4MDMxNg==",
-			"homeTeamTitle": "上海上港",
-			"id": "3EEBED9177524C909257B709E0E42824",
-			"img": "https://www.9itv.com.cn/jitvfileserver/action/img/dmlkZW8vMjAxODAzMjcvXzE1MjIxMDMxNTM2NjUucG5n",
-			"link": "http://v.pptv.com/show/ibaEIhu5UxAJl40s.html",
-			"name": "亚冠小组赛第5轮",
-			"playCount": 0,
-			"score": 0,
-			"scoreText": "",
-			"startTime": "2018-04-05 16:40:00",
-			"t_tv_recommend_id": "210299-141371",
-			"type": "pptvsport"
-		}, {
-			"appId": "13",
-			"cat": "亚冠,18赛季,小组赛,第5轮",
-			"channelId": "301817",
-			"createTime": "2018-03-27 06:25:53",
-			"endTime": "2018-04-05 20:10:00",
-			"guestSuppor": "22",
-			"guestTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzUzOC5wbmc/dj0yMDE4MDMxNg==",
-			"guestTeamTitle": "川崎前锋",
-			"homeSuppor": "332",
-			"homeTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzQ4NS5wbmc/dj0yMDE4MDMxNg==",
-			"homeTeamTitle": "上海上港",
-			"id": "3EEBED9177524C909257B709E0E42824",
-			"img": "https://www.9itv.com.cn/jitvfileserver/action/img/dmlkZW8vMjAxODAzMjcvXzE1MjIxMDMxNTM2NjUucG5n",
-			"link": "http://v.pptv.com/show/ibaEIhu5UxAJl40s.html",
-			"name": "亚冠小组赛第5轮",
-			"playCount": 0,
-			"score": 0,
-			"scoreText": "",
-			"startTime": "2018-04-05 17:40:00",
-			"t_tv_recommend_id": "210299-141371",
-			"type": "pptvsport"
-		}, {
-			"appId": "13",
-			"cat": "亚冠,18赛季,小组赛,第5轮",
-			"channelId": "301817",
-			"createTime": "2018-03-27 06:25:53",
-			"endTime": "2018-04-05 23:10:00",
-			"guestSuppor": "22",
-			"guestTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzUzOC5wbmc/dj0yMDE4MDMxNg==",
-			"guestTeamTitle": "川崎前锋",
-			"homeSuppor": "332",
-			"homeTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzQ4NS5wbmc/dj0yMDE4MDMxNg==",
-			"homeTeamTitle": "上海上港",
-			"id": "3EEBED9177524C909257B709E0E42824",
-			"img": "https://www.9itv.com.cn/jitvfileserver/action/img/dmlkZW8vMjAxODAzMjcvXzE1MjIxMDMxNTM2NjUucG5n",
-			"link": "http://v.pptv.com/show/ibaEIhu5UxAJl40s.html",
-			"name": "亚冠小组赛第5轮",
-			"playCount": 0,
-			"score": 0,
-			"scoreText": "",
-			"startTime": "2018-04-05 20:40:00",
-			"t_tv_recommend_id": "210299-141371",
-			"type": "pptvsport"
-		}, {
-			"appId": "13",
-			"cat": "亚冠,18赛季,小组赛,第5轮",
-			"channelId": "301817",
-			"createTime": "2018-03-27 06:25:53",
-			"endTime": "2018-04-06 22:10:00",
-			"guestSuppor": "22",
-			"guestTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzUzOC5wbmc/dj0yMDE4MDMxNg==",
-			"guestTeamTitle": "川崎前锋",
-			"homeSuppor": "332",
-			"homeTeamLog": "http://10.17.174.12:8820/jitvfileserver/action/img/cmFuay8yMDE4MDMxNi9fMTUyMTE4NzM1NzQ4NS5wbmc/dj0yMDE4MDMxNg==",
-			"homeTeamTitle": "上海上港",
-			"id": "3EEBED9177524C909257B709E0E42824",
-			"img": "https://www.9itv.com.cn/jitvfileserver/action/img/dmlkZW8vMjAxODAzMjcvXzE1MjIxMDMxNTM2NjUucG5n",
-			"link": "http://v.pptv.com/show/ibaEIhu5UxAJl40s.html",
-			"name": "亚冠小组赛第5轮",
-			"playCount": 0,
-			"score": 0,
-			"scoreText": "",
-			"startTime": "2018-04-06 19:40:00",
-			"t_tv_recommend_id": "210299-141371",
-			"type": "pptvsport"
-		}
-	]
+    "carousel":
+    {
+        "pic1": "http://img2.imgtn.bdimg.com/it/u=3596013855,1973097363&fm=27&gp=0.jpg",
+
+        "pic2": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1766504166,4265394755&fm=27&gp=0.jpg",
+
+        "pic3": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2783878403,4036888290&fm=27&gp=0.jpg",
+
+        "pic4": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1619570386,3091698925&fm=27&gp=0.jpg",
+
+        "pic5": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3757031804,1342901783&fm=27&gp=0.jpg"
+    },
+    "brand": [
+        {
+            "name": "百达翡丽",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/908b00c8f0385bb1dfbe54703b214fda_121_121.jpg",
+            "int": "创立于1839年5月1日的百达翡丽(Patek Philippe)是瑞士日内瓦的家族独立经营制表商,历史悠久,工艺精湛,在设计、生产直至装配的整体过程中享有全面的创新自由,打造出令世人交口称赞的钟表杰作。"
+        },
+        {
+            "name": "劳力士",
+            "pic": "https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG/tam-ogel/b4787bfc670b99d95be738a0fa7d34c0_121_121.jpg",
+            "int": "劳力士（Rolex）是瑞士著名的手表制造商，前身为Wilsdorf and Davis（W&D）公司，由德国人汉斯·威斯多夫（Hans Wilsdof）与英国人戴维斯（Alfred Davis）于1905年在伦敦合伙经营。1908年由汉斯·威斯多夫在瑞士的拉夏德芬（La Chaux-de-Fonds）注册更名为ROLEX。经过一个世纪的发展，总部设在日内瓦的劳力士公司已拥有19个分公司，在世界主要的大都市有24个规模颇大的服务中心，年产手表45万只左右，成为市场占有量甚大的名牌手表之一。"
+        },
+        {
+            "name": "宝玑",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/7432c4fb0f0cc9815440e103f41565d8_121_121.jpg",
+            "int": "宝玑（Breguet）是斯沃琪集团 (Swatch Group)品牌，创始于1775年，距今已有240年的历史。从18世纪开始，宝玑品牌一直致力于为皇室成员以及各个领域的杰出人物提供作品和服务。在业界宝玑有“表王”的称号，同时也有“现代制表之父”的美誉。因为宝玑发明了业界超过70% 的技术，其最具代表性的三大复杂功能的发明有陀飞轮、万年历和三问音簧。在这个世界上任何一个品牌的机械腕表，无论是手动上弦还是自动上弦，至少有两项技术、发明、专利、装置来自于宝玑。如果把属于宝玑的部分拿走，没有一块腕表能够正常运行。 每一块机械腕表上都有宝玑的影子，因此宝玑是最纯粹的高级制表师品牌。"
+        },
+        {
+            "name": "伯爵",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/1db115462cb837533fb0812b31f4eb82_121_121.jpg",
+            "int":"1874年，PIAGET伯爵由年仅19岁的乔治·爱德华·伯爵（Georges Edouard Piaget）创立，至今PIAGET伯爵仍以其为名承袭并开创伯爵的创作历史。从1874年诞生以来，伯爵一直秉承“永远做得比要求的更好”的品牌精神，将精湛工艺与无限创意融入每一件作品中，同时优先发展创意和对细节的追求，将腕表与珠宝的工艺完全融合在一起。创立伊始，伯爵专注于腕表机芯的设计和生产"
+        },
+        {
+            "name": "江诗丹顿",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/d43da3272b76516831b7960f9c554ef5_121_121.jpg",
+            "int":"江诗丹顿（Vacheron Constantin），世界最著名钟表品牌之一，1755年创立于瑞士日内瓦，为世界最古老最早的钟表制造厂，也是世界最著名的表厂之一。江诗丹顿传承了瑞士的传统制表精华，未曾间断，同时也创新了许多制表技术，对制表业有莫大的贡献。江诗丹顿在整个二十世纪推出了多款令人永世难忘的设计。从简约典雅的款式到精雕细琢的复杂设计，从日常佩戴的款式到名贵的钻石腕表，每一款均代表了瑞士高级钟表登峰造极的制表工艺，体现了江诗丹顿在世界钟表业界卓尔不群的地位，及其对技术和美学的追求。历经两个半世纪的风风雨雨，江诗丹顿至今依然是钟表业界最负盛名的品牌之一。"
+        }
+    ],
+    "goods": [
+        {
+            "id": "001",
+            "sale": "1235",
+            "title": "新款罗西尼手表男潮自动机械男表 正品",
+            "price": "￥1289.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i1/762526146/TB1h0Fya1uSBuNjSsziXXbq8pXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "002",
+            "sale": "2356",
+            "title": "天王表正品男表防水自动机械表 钢带男",
+            "price": "￥1149.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "003",
+            "sale": "2323",
+            "title": "天王机械男表正品商务品质日历防水自动机械钢带男士手表分期购",
+            "price": "￥1349.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i4/2568353955/TB1bMFCbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "004",
+            "sale": "1546",
+            "title": "海鸥手表男防水官方正品时尚镂空自动机械表日历夜光真皮机械表",
+            "price": "￥1199.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i4/2151638273/TB1P2o3aASWBuNjSszdXXbeSpXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "005",
+            "sale": "1235",
+            "title": "罗宾尼飞轮镂空手表男士全自动机械表大表盘时尚皮带男表正品防水",
+            "price": "￥1780.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i1/2086791699/TB1a2xtePgy_uJjSZTEXXcYkFXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "006",
+            "sale": "2356",
+            "title": "雷诺情侣手表机械表对表镂空真皮防水情侣表一对男女情人节礼物",
+            "price": "￥1899.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i1/766294303/TB1NMI2XMaTBuNjSszfXXXgfpXa_!!2-item_pic.png_b.jpg"
+        },
+        {
+            "id": "007",
+            "sale": "4356",
+            "title": "卡西欧情侣手表一对CASIOg-shock/baba-g手表男女时尚运动手表",
+            "price": "￥1799.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i3/1933305167/TB1BOpBbmCWBuNjy0FhXXb6EVXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "008",
+            "sale": "11356",
+            "title": "青年手表男吴京同款时尚潮流战狼2 防水成人男潮学生男士电子手表",
+            "price": "￥99.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i1/2313594072/TB1gqL6pMoQMeJjy0FoXXcShVXa_!!2-item_pic.png_b.jpg"
+        },
+        {
+            "id": "009",
+            "sale": "21356",
+            "title": "艾奇情侣表一对青年手表男学生简约时尚潮流石英表皮带男士手表女",
+            "price": "￥99.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i3/695735621/TB1vK33h9_I8KJjy0FoXXaFnVXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "010",
+            "sale": "21556",
+            "title": "艾奇情侣手表一对皮带表带简约时尚青年男士石英表防水腕表学生",
+            "price": "￥99.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i1/695735621/TB1E.w1b6gy_uJjSZKzXXb_jXXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "011",
+            "sale": "22556",
+            "title": "聚利时时尚正品素雅帆布文艺青年学生男表石英夜光手表女表JA-910",
+            "price": "￥134.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i2/598454299/TB1La9mbwfH8KJjy1zcXXcTzpXa_!!0-item_pic.jpg_b.jpg"
+        },
+        {
+            "id": "012",
+            "sale": "22556",
+            "title": "学生男女士情侣表新款全自动镂空机械表男表腕表中青年老人防水表",
+            "price": "￥98.00",
+            "freight": "包邮",
+            "pic": "https://img.alicdn.com/bao/uploaded/i2/TB1FOsHGXXXXXXzXFXXXXXXXXXX_!!0-item_pic.jpg_b.jpg"
+        }
+
+    ]
 }
